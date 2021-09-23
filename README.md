@@ -1,3 +1,5 @@
+Personal non-commercial use only. Use at your own risk.
+
 dovetail.step: Olympus BH2 trinocular head dovetail mount modified for PE projection eyepiece.
 https://www.linyangchen.com/Olympus-BH2-trinocular-head-dovetail-UIS
 
