@@ -8,3 +8,6 @@ https://www.linyangchen.com/Olympus-BH2-swing-out-filter-holder
 
 thick.step and thin.step: modified filter holders for epi-illuminators (e.g. BH2-MA, BH2-RLA) of Olympus BH2-series microscopes
 https://www.linyangchen.com/Olympus-bh2-reflected-light-illuminator
+
+sliderhole.step and shaft.step: modified parts for Olympus BH2 Berek compensator
+https://www.linyangchen.com/Polarizing-microscope-Berek-Senarmont-compensator
