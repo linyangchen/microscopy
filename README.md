@@ -1,5 +1,7 @@
 Personal non-commercial use only. Use at your own risk.
 
+InVi SPIM sample dish: slightly modified version of the ibidi dish for the Bruker Luxendo InVi SPIM light sheet microscope.
+
 dovetail.step: Olympus BH2 trinocular head dovetail mount modified for PE projection eyepiece.
 https://www.linyangchen.com/Olympus-BH2-trinocular-head-dovetail-UIS
 
